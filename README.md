@@ -14,7 +14,7 @@ Aplicação utilizando Spring Boot, MySQL, JPA e Hibernate, postman.
 
 **1. Clone a aplicação**
 
-A Aplicação foi utilizada o springboot, https://start.spring.io/ para a conclusão do projeto.
+Na Aplicação foi utilizada o springboot, https://start.spring.io/ para a auxiliar na conclusão do projeto.
 
 **2. Crie o banco de dados no MySQL**
 ```bash
