@@ -27,7 +27,7 @@ O arquivo contendo a tabela está no APICrudjogo/db.txt
 
 O app vai rodar nesse endereço <http://localhost:8080>.
 
-**4 Após isso, utilize o Postman ou programas similares para imputar comandos.
+**4 Após isso, utilize o Postman ou programas similares para fazer os requests.
 
 A aplicação define as APIs abaixo.
 
